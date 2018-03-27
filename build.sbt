@@ -4,7 +4,7 @@ organization := "com.ejisan"
 
 version := "0.0.1-SNAPSHOTS"
 
-scalaVersion := "2.12.2"
+scalaVersion := "2.12.4"
 
 crossScalaVersions := Seq("2.11.11", scalaVersion.value)
 
