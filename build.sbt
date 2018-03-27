@@ -52,7 +52,7 @@ testOptions in Test ++= Seq(
 
 libraryDependencies ++= Seq(
   "org.scala-lang.modules" %% "scala-java8-compat" % "0.8.0",
-  "commons-codec" % "commons-codec" % "1.10",
+  "commons-codec" % "commons-codec" % "1.11",
   "junit" % "junit" % "4.12" % Test,
   "com.novocode" % "junit-interface" % "0.11" % Test,
   "org.scalatest" %% "scalatest" % "3.0.1" % Test)
